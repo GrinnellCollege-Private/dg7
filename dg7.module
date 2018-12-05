@@ -1189,7 +1189,7 @@ function dg7_controls_add_an_annotation($pid, $tabToCopy) {
  *
  */
 function dg7_print_awstats($pid) {
-  return "Sorry, the dg7_print_awstats() function has been deprecated in this version of Digital Grinnell."
+  return "Sorry, the dg7_print_awstats() function has been deprecated in this version of Digital Grinnell.";
 }
 
 /*
